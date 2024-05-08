@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/iaiu2142/iaiu2142/blob/main/assets/myasset.jpeg">
+</p>
 <h1 align="center">Hi 👋, I'm Ilsa</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
