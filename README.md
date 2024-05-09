@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iaiu2142/iaiu2142/blob/main/assets/mygif.gif" alt="Image Here"  widht="400px" height="400px">
+  <img src="https://github.com/iaiu2142/iaiu2142/blob/main/assets/mygif.gif" alt="Image Here"  widht="350px" height="350px">
 </p>
 <h1 align="center">Hi 👋, Ilsa here</h1>
 <h3 align="center">Visionary Frontend Developer Igniting Digital Magic✨🚀</h3>
