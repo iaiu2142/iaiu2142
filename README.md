@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaiu2142" alt="iaiu2142" /></a> </p>
 <h2 align="left">About Me 🌠</h2>
-- 🔭 I’m currently working on **ReactJS.**
+- 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Front-End Developement.**
+- 👯 I’m looking to collaborate on **Front-End Developement**
 
 - 🤝 I’m looking for help with **NextJS and other F.E. Tools**
 
-- 💬 Ask me about **REACT and UI/UX.**
+- 💬 Ask me about **REACT and UI/UX**
 
-- 📫 How to reach me **ilsaafzaal2142@gmail.com**
+- 📫 Shoot Your Queries at **ilsaafzaal2142@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
