@@ -26,7 +26,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <center>
-
   
 | <img height="50" src="https://angular.io/assets/images/logos/angular/angular.svg"/> | <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b"> | <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> |
 |:---:|:---:|:---:|:---:|:---:|
