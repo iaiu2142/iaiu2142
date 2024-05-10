@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Front-End Developement**
 - 🤝 I’m looking for help with **NextJS and other F.E. Tools**
 - 💬 Ask me about **REACT and UI/UX**
-- 📫 Shoot Your Queries at **ilsaafzaal2142@gmail.com**
+- 📫 Shoot your queries at **ilsaafzaal2142@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
