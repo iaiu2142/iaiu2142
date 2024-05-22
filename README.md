@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/iaiu2142/iaiu2142/blob/main/assets/mygif.gif" alt="Image Here" width: 460px; height: 350px;">
 </p>
-<h1 align="center">Hi 👋, Ilsa here</h1>
-<h3 align="center">Visionary Frontend Developer Igniting Digital Magic✨🚀</h3>
+<h1 align="center">Hi 👋, Ilsa Afzaal here</h1>
+<h3 align="center">Visionary Frontend Developer Igniting Digital Magic ✨🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaiu2142&label=Profile%20views&color=0e75b6&style=flat" alt="iaiu2142" /> </p>
 
