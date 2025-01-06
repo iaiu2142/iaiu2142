@@ -41,9 +41,27 @@
 
 </center>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaiu2142&show_icons=true&locale=en&layout=compact" alt="iaiu2142" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iaiu2142&show_icons=true&locale=en&layout=compact" 
+    alt="Top Languages for iaiu2142" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaiu2142&show_icons=true&locale=en" alt="iaiu2142" /></p>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=iaiu2142&show_icons=true&locale=en" 
+    alt="GitHub Stats for iaiu2142" 
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaiu2142&" alt="iaiu2142"/></p>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iaiu2142" 
+    alt="GitHub Streak for iaiu2142" 
+  />
+</p>
 
