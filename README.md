@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, Ilsa Afzaal here</h1>
 <h3 align="center">Visionary Frontend Developer Igniting Digital Magic ✨🚀</h3>
+[![My GitHub Rank in Pakistan](https://img.shields.io/badge/Rank-5th_Pakistan-brightgreen)](https://github.com/USERNAME)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaiu2142&label=Profile%20views&color=0e75b6&style=flat" alt="iaiu2142" /> </p>
 
